@@ -44,6 +44,7 @@
     color: #444343;
 }
 
+/* buttion styles */
 .btn-primary{
     position: absolute; 
     width: 85px;
@@ -218,7 +219,7 @@ color: #151414;
             top: 2652.26px;
             background: #151414;
 }
-
+/* input-description and input styles */
 .contact.information{
     position: absolute;
     width: 485px;
@@ -280,7 +281,7 @@ color: #151414;
     line-height: 29px;
     color: #FFFFFF;
 }
-
+/* subscribe buttion styles */
 .subs-btn-style{
     width: 170.11px;
     height: 64px;
